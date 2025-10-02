@@ -39,10 +39,18 @@ CERRAR ETIQUETA 1
 
 ## Enlaces  
 
-[LINK](https://www.youtube.com/ "YOUTUBE")
+[YOUTUBE](https://www.youtube.com/ "este es el texto que aparece cuando para el cursor")
 
 
 ## PARA PONER LAS IMAGENES
 
-![alt text](imagen.jpeg "Imagen")
+![alt text](imagen.jpeg "Imagen")  
 
+## TABLAS
+
+| Jugador | Equipo   | Nombre         |
+|:---------:|:----------:|:----------------:|
+| 32      | Lakers   | Magic Johnson  |
+| 33      | Celtics  | Boston         |
+| 23      | Bulls    | Michael        |
+| ...     | ...      | ...            |
