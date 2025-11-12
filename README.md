@@ -54,3 +54,9 @@ CERRAR ETIQUETA 1
 | 33      | Celtics  | Boston         |
 | 23      | Bulls    | Michael        |
 | ...     | ...      | ...            |
+
+## FORMULARIOS
+
+Se usa: 
+
+<form action="URL_"> </form>
